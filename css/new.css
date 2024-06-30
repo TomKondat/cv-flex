@@ -138,11 +138,12 @@ section#experience {
 }
 .position #header {
   margin: 20px;
-  width: 30%;
+  width: 20%;
 }
 
 .position article {
   margin: 20px;
+  width: 80%;
 }
 
 article p {
